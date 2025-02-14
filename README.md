@@ -31,8 +31,8 @@ The backend is powered by Firebase, offering a scalable and secure platform for 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/construction-management-system.git
-   cd construction-management-system
+   git clone https://github.com/Abhia2531/Construction-Management-System.git
+   cd Construction-Management-System
    ```
 
 2. **Setup Firebase:**
@@ -46,11 +46,3 @@ The backend is powered by Firebase, offering a scalable and secure platform for 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this description to better fit your project and preferences.
